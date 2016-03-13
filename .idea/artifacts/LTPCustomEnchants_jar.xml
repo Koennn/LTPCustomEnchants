@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LTPCustomEnchants:jar">
+    <output-path>$USER_HOME$/Desktop/Server/plugins</output-path>
+    <root id="archive" name="LTPCustomEnchants.jar">
+      <element id="module-output" name="LTPCustomEnchants" />
+    </root>
+  </artifact>
+</component>
